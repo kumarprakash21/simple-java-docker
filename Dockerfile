@@ -1,5 +1,5 @@
 # stable official Java runtime base image
-FROM FROM eclipse-temurin:17-jdk
+FROM eclipse-temurin:17-jdk
 
 # metadata
 LABEL maintainer="your-email@example.com"
